@@ -1,0 +1,6 @@
+BMI example
+
+User height = 185
+User weight = 83
+User BMI = 24.25
+=>Good weight
